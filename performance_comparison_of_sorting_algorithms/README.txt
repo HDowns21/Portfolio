@@ -1,1 +1,3 @@
 In my final project for data structures, I compared the relative performance of several different sorting algorithms. For this project, I analyzed the insertion sort, merge sort, quick sort, and counting sort algorithms.
+
+Video presentation link: https://youtu.be/2X2KRdrA0h0
